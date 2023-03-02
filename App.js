@@ -191,7 +191,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#c1292e",
   },
   compras: {
-    fontSize: 40,
+    fontSize: 41,
     height: 100,
     marginTop: 50,
     textAlign: 'center',
